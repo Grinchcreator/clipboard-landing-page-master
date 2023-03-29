@@ -15,7 +15,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: (https://grinchcreator.github.io/clipboard-landing-page)
+- Live Site URL: (https://grinchcreator.github.io/clipboard-landing-page-master)
 
 ### Built with
 
